@@ -1,0 +1,67 @@
+body{
+	background-image:url(bratok.jpg);
+	}
+
+.c0{ 
+	color:#16ed7f; 
+	font-size:30px
+	}
+	
+.b0{ 
+	color:red; 
+	font-size:30px
+	}
+	
+#a0{
+	text-decoration:none;
+	transition:0.1s;
+	color:#ff8003;
+	padding-left:4px; 
+	font-size:35px; 
+	background-color:#2f7300; 
+	border:2px solid #000000;
+	margin-top:50px;
+	margin-left:10px;
+	margin-right:1000px;
+	border-radius:10px;
+	}
+	
+#a0:hover{
+		border:4px solid #000000;
+		box-shadow:5px 5px 6px #914307;
+	}
+		
+.c0{
+	text-decoration:none;
+	transition:0.1s;
+	padding-left:4px; 
+	font-size:35px; 
+	background-color:#153626; 
+	border:2px solid #000000;
+	margin-left:10px;
+	margin-right:1000px;
+	border-radius:10px;
+	}
+	
+.c0:hover{
+		border:4px solid #000000;
+		box-shadow:4px 4px 5px #53e573;
+		}
+		
+.b0{
+	text-decoration:none;
+	transition:0.1s;
+	border: 2px solid #000000;
+	background-color:#f5e6f3;
+	font-size: 35px; 	
+	padding-left: 4px; 
+	margin-left: 10px;
+	margin-right: 1000px;
+	border-radius:10px;
+	}
+	
+.b0:hover{
+		border: 4px solid #000000;
+		box-shadow:4px 4px 5px #d5e089;
+		}
+	
